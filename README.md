@@ -20,7 +20,7 @@ For the purposes of this Privacy Policy:
 
 - Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to IllusionBrowser.
 
-- Country refers to: Russia
+- Country refers to: Kazahstan
 
 - Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
